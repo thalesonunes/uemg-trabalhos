@@ -1,0 +1,58 @@
+body{
+	width: 100%;
+	padding-top: 60px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+
+h1{
+	color: darkslategrey;
+	font-size: 24px;
+	font-weight: bold;
+	margin: 0px;
+}
+
+h2{
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0px 0px 25px 0px;
+}
+
+div {
+	border: round;
+	display: block;
+	position: relative;
+	width: 280px;
+	background-color: aquamarine;
+	margin: auto;
+	padding: 30px;
+	border-radius: 7px;
+}
+
+div input{
+	border-radius: 7px;
+	width: 200px;
+	height: 20px;
+	padding-left: 7px;
+
+}
+
+#consultar {
+	text-align: center;
+	border: none;
+	background-color: darkslategray;
+	border-radius: 3px;
+	color: white;
+	width: 100px;
+	height: 25px;
+	text-transform: uppercase;
+}
+
+.display{
+	text-align: left;
+	font-size: 12px;
+	text-transform: none;
+}
+
+

@@ -1,0 +1,342 @@
+/* INSERINDO FONTES */
+
+@font-face{
+    font-family: 'AvantGarden';
+    src:url("fonts/AVGARDD.ttf");
+}
+
+@font-face{
+    font-family: 'Carlito';
+    src:url("fonts/Carlito-Bold.ttf");
+}
+
+@font-face{
+    font-family: 'Brandon';
+    src:url("Brandon_reg.ttf");
+}
+
+
+/* BODY ============================================= */
+
+body{
+    margin:0px;
+    background-color: #313131;
+
+}
+
+.texto p{
+    text-indent: 50px;
+    text-align: justify;
+    font-family: 'Brandon', sans-serif;
+    font-size: 13px;
+    color: white;
+    letter-spacing: 0.02em;
+}
+
+.texto aside{
+    padding: 0px;
+    float: left;
+    margin-right: 20px;
+    width: 310px;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+
+h1{
+    font-family: AvantGarden, sans-serif;
+    font-size: 36px;
+    color: olivedrab;
+    text-align: center;
+}
+
+
+h2{
+    width: 100%;
+    font-family: AvantGarden, sans-serif;
+    font-size: 24px;
+    color: #dbb891;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+h3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    font-family: AvantGarden, sans-serif;
+    font-size: 24px;
+    color: #6d87a5;
+    text-align: center;
+}
+
+h4{
+    margin-top: -10px;
+    width: 100%;
+    font-family: AvantGarden, sans-serif;
+    font-size: 16px;
+    color: #c1e1f1;
+    text-align: center;
+}
+
+.mapa{
+    width: 80%;
+    height: 85%;
+    margin-left: 10%;
+    margin-right: 10%;
+    opacity: 0.2; 
+    z-index: -1;
+    position: absolute;
+    
+}
+
+main#conteudo{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    border: 1px solid WHITE;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    overflow: hidden;
+}
+
+
+/* IMAGENS ============================================= */
+
+figure#fotocapa{
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float:left;
+    width: 900px;
+}
+
+#fotocapa img{
+    border: solid 3px white;
+    border-radius: 10px;
+    width: 896px;
+}
+
+.texto figure{
+    float:left;
+    margin: 0;
+}
+
+.texto img{
+    position: static;
+    border: solid 5px white;
+    margin: 0px 20px 20px 0px;
+    border-radius: 10px;
+    text-indent: 0;
+    height: 300px;
+    width: 300px;
+}
+
+figure figcaption{
+    margin-top: -28px;
+    margin-bottom: 5px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Brandon', sans-serif;
+    color: #6d87a5;
+    font-size: 9px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    height: 15px;
+    width: 300px;
+}
+
+
+/* AUDIO E VIDEO ============================================= */
+
+article#video-nordeste{
+    float: left;
+}
+
+article#video-nordeste video{
+    float: left;
+    width: 565px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+article#berimbau{
+    float: left;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+
+/* TABELA ============================================= */
+
+table caption{
+    border-radius: 5px;
+    border: 0px;
+    background-color: #c36c5b;
+    padding: 7px;
+    text-align: center;
+    font-family: 'AvantGarden', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 2px;
+}
+
+table{
+    margin:10px;
+    float: right;
+    border-radius: 5px;
+    border: 0px;
+    background-color: aliceblue;
+    padding: 7px;
+    text-align: center;
+    font-family: 'Brandon', sans-serif;
+    font-size: 12px;
+}
+
+table td{
+    border-radius: 5px;
+    margin: 2px;
+    padding: 5px;
+    background-color:#c36c5b;
+    color: white;  
+}
+
+table th{
+    color:#aa632e;
+}
+
+
+/* MENU ============================================= */
+
+
+nav#menu{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+nav#menu ul{
+    margin-left: -40px;
+    list-style: none;
+    text-transform: uppercase;
+    position:relative;
+    top: 0px;
+    text-align: center;  
+}
+
+nav#menu li{
+    display: inline-block;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 1px;
+    padding-bottom: 2px;
+    margin: 3px; /* MARGEM EXTERNA */
+    background-color: #aa632e;
+    transition: background-color 0.3s;
+    border-radius: 10px;
+}
+
+nav#menu li:hover{
+    background-color: #6d87a5;
+}
+
+
+nav#menu a{
+    text-decoration-color: blanchedalmond;
+    font-family: Carlito, sans-serif;
+    font-size: 12px;
+    letter-spacing: 3px;
+    color: white;
+    text-decoration: none;
+}
+
+nav#menu a:hover{
+    color: white;
+}
+
+
+/* LISTAGEM  REGIÕES ============================================= */
+
+.ico-regioes{
+    padding-bottom: 7px;
+}
+
+ol#lista-regioes{
+    padding: 20px;
+    height: auto;
+    margin-top: auto;
+    margin-left: auto;
+    color: whitesmoke;
+    font-family: Brandon, sans-serif;
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.link-regiao{
+    padding-top: 10px;
+    color: white;
+    text-indent: none;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+
+.texto-regioes{
+    text-indent: -40px;
+    color: white;
+    text-indent: none;
+    font-size: 9px;
+    padding-bottom: 5px;
+}
+
+
+section#secao-regioes{
+    width: 100%;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ol#lista-regioes{
+    width: 880px;
+}
+
+.regioes{
+    vertical-align: middle;
+    padding: 10px;
+    display: inline-block;
+    width: 250px;
+    height: 270px;
+    padding-left: 25px;
+    text-align: left;
+}
+
+
+/* FOOTER ============================================= */
+
+footer#principal{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    padding: 1px;
+    width: 900px;
+    height: 40px;
+    background-color: #202020;
+    border-radius: 20px;
+}
+
+
+

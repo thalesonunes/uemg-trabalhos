@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Nayara\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Nayara\\.nuget\\packages"
+    ]
+  }
+}

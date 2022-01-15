@@ -1,0 +1,7 @@
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-08\Lista04\Exercicio01\bin\Debug\Exercicio01.exe.config
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-08\Lista04\Exercicio01\bin\Debug\Exercicio01.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-08\Lista04\Exercicio01\bin\Debug\Exercicio01.pdb
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-08\Lista04\Exercicio01\obj\Debug\Exercicio01.csprojAssemblyReference.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-08\Lista04\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-08\Lista04\Exercicio01\obj\Debug\Exercicio01.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-08\Lista04\Exercicio01\obj\Debug\Exercicio01.pdb

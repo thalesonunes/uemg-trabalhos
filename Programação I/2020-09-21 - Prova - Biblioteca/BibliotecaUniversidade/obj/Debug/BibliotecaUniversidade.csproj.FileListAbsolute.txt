@@ -1,0 +1,49 @@
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-21\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.exe.config
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-21\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-21\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.pdb
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-21\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.csprojAssemblyReference.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-21\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.csproj.CoreCompileInputs.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-21\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-21\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.pdb
+C:\Users\Nayara\Downloads\Biblioteca (1)\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.exe.config
+C:\Users\Nayara\Downloads\Biblioteca (1)\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.exe
+C:\Users\Nayara\Downloads\Biblioteca (1)\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.pdb
+C:\Users\Nayara\Downloads\Biblioteca (1)\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.csprojAssemblyReference.cache
+C:\Users\Nayara\Downloads\Biblioteca (1)\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Downloads\Biblioteca (1)\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.exe
+C:\Users\Nayara\Downloads\Biblioteca (1)\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.pdb
+C:\Users\Nayara\Downloads\Alterações Projeto\Alterações Projeto\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.exe.config
+C:\Users\Nayara\Downloads\Alterações Projeto\Alterações Projeto\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.exe
+C:\Users\Nayara\Downloads\Alterações Projeto\Alterações Projeto\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.pdb
+C:\Users\Nayara\Downloads\Alterações Projeto\Alterações Projeto\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.csprojAssemblyReference.cache
+C:\Users\Nayara\Downloads\Alterações Projeto\Alterações Projeto\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Downloads\Alterações Projeto\Alterações Projeto\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.exe
+C:\Users\Nayara\Downloads\Alterações Projeto\Alterações Projeto\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.pdb
+C:\Users\Nayara\Downloads\Alterações Projeto this\Alterações Projeto\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.exe.config
+C:\Users\Nayara\Downloads\Alterações Projeto this\Alterações Projeto\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.exe
+C:\Users\Nayara\Downloads\Alterações Projeto this\Alterações Projeto\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.pdb
+C:\Users\Nayara\Downloads\Alterações Projeto this\Alterações Projeto\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.csprojAssemblyReference.cache
+C:\Users\Nayara\Downloads\Alterações Projeto this\Alterações Projeto\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Downloads\Alterações Projeto this\Alterações Projeto\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.exe
+C:\Users\Nayara\Downloads\Alterações Projeto this\Alterações Projeto\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.pdb
+D:\Mailson\Downloads\Alterações Projeto 20.09\Alterações Projeto\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.exe.config
+D:\Mailson\Downloads\Alterações Projeto 20.09\Alterações Projeto\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.exe
+D:\Mailson\Downloads\Alterações Projeto 20.09\Alterações Projeto\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.pdb
+D:\Mailson\Downloads\Alterações Projeto 20.09\Alterações Projeto\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.csprojAssemblyReference.cache
+D:\Mailson\Downloads\Alterações Projeto 20.09\Alterações Projeto\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.csproj.CoreCompileInputs.cache
+D:\Mailson\Downloads\Alterações Projeto 20.09\Alterações Projeto\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.exe
+D:\Mailson\Downloads\Alterações Projeto 20.09\Alterações Projeto\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.pdb
+C:\Users\Nayara\Downloads\Biblioteca\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.exe.config
+C:\Users\Nayara\Downloads\Biblioteca\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.exe
+C:\Users\Nayara\Downloads\Biblioteca\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.pdb
+C:\Users\Nayara\Downloads\Biblioteca\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.csprojAssemblyReference.cache
+C:\Users\Nayara\Downloads\Biblioteca\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Downloads\Biblioteca\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.exe
+C:\Users\Nayara\Downloads\Biblioteca\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.pdb
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-21\BibliotecaFinal\Biblioteca\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.exe.config
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-21\BibliotecaFinal\Biblioteca\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-21\BibliotecaFinal\Biblioteca\Biblioteca\BibliotecaUniversidade\bin\Debug\BibliotecaUniversidade.pdb
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-21\BibliotecaFinal\Biblioteca\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.csprojAssemblyReference.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-21\BibliotecaFinal\Biblioteca\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.csproj.CoreCompileInputs.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-21\BibliotecaFinal\Biblioteca\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-21\BibliotecaFinal\Biblioteca\Biblioteca\BibliotecaUniversidade\obj\Debug\BibliotecaUniversidade.pdb

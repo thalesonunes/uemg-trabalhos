@@ -1,0 +1,185 @@
+@font-face{
+    font-family: 'AvantGarden';
+    src:url("AVGARDD.ttf");
+}
+
+
+/* Formatando o Cabeçalho da Página */
+
+header{
+    height: 150px;
+    border-bottom: 1px solid black;
+    background-color:darkred
+}
+
+header h1{
+    position:relative;
+    text-align: center;
+    font-size: 60px;
+    font-family: AvantGarden, sans-serif;
+    top: 10px;
+    
+}
+
+footer{
+    clear: both;
+    background-color: coral;
+    position: bottom;
+    height: 75px;
+    text-align: center;
+    padding-top: 1px;
+}
+
+footer:hover{
+    text-decoration: underline;
+}
+
+
+
+
+figure{
+    position: relative;
+    border: 8px solid white;
+    box-shadow: 1px 1px 4px black;
+}
+
+figure img{
+    width: 100%;
+    height: 100%;
+}
+
+figure figcaption{
+    opacity: 0;
+    position: absolute;
+    top: 0px;
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 100%;
+    height: 100%;
+    color: white;
+    padding: 10px;
+    box-sizing: border-box;
+    transition: opacity 1s;
+
+}
+
+figure:hover figcaption{
+    opacity: 100;
+}
+
+/* MENU */
+
+nav#menu{
+    display: block;
+}
+
+nav#menu ul{
+    list-style: none;
+    text-transform: uppercase;
+    position: absolute;
+    top: 20px;
+    right: 25px;
+}
+
+nav#menu li{
+    display: inline-block;
+    padding: 10px; /* MARGEM INTERNA */
+    margin: 2px; /* MARGEM EXTERNA */
+    background-color: aqua;
+    transition: background-color 1s;
+    
+}
+
+nav#menu li:hover{
+    background-color: chartreuse;
+}
+
+
+nav#menu a{
+    color: black;
+    text-decoration: none;
+}
+
+nav#menu a:hover{
+    color: white;
+    text-decoration: underline;
+    
+}
+
+
+/* AULA 16/09 */
+
+div#interface{
+    width: 100%;
+    box-shadow: 1px 1px 5px black;
+    background-color: aquamarine;
+}
+
+section#sec_index{
+    display: block;
+    width: 45%;
+    float: left;
+    padding: 10px 5px 5px 5px;
+    border-right: 1px solid black;
+    
+}
+
+asside{
+    display: block;
+    width: 45%;
+    float: right;
+    padding: 10px 5px 5px 5px;
+}
+
+
+/* AUDIO E VODEO */
+
+h1#AudioVideo{
+    position:relative;
+    text-align: center;
+    font-size: 36px;
+    font-family: AvantGarden, sans-serif;
+    top: 10px;
+}
+
+body#midias{
+    background-color: #eeeeee;  
+}
+
+div#interface_midias{
+    position: relative;
+    width: 90%;
+    box-shadow: 2px 2px 8px black;
+    background-color: aquamarine;
+    left: 5%;
+    
+}
+
+div#interface_midias h1{
+    text-align: center;
+    font-family: 'AvantGarden';
+    font-size: 60px;
+}
+
+div#interface_midias h2{
+    font-family: 'AvantGarden';
+    font-size: 30px;
+    left: 0px;
+}
+
+div#interface_midias h3{
+    font-family: 'AvantGarden';
+    left: 0px;
+}
+
+section#sec_midias{
+    display:block;
+    position:relative;
+    left: 50px;
+}
+
+article#calma_pedrocapo audio{
+    display:block;
+    position:absolute;
+    top: 10px;
+    left: 400px;
+}

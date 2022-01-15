@@ -1,0 +1,13 @@
+C:\Users\Nayara\Documents\01 - Faculdade\Disciplinas\2020 - 01\Programação\Tarefas\Tarefa02\Tarefa02\Tarefa02\obj\Debug\netcoreapp3.1\Tarefa02.csprojAssemblyReference.cache
+C:\Users\Nayara\Documents\01 - Faculdade\Disciplinas\2020 - 01\Programação\Tarefas\Tarefa02\Tarefa02\Tarefa02\obj\Debug\netcoreapp3.1\Tarefa02.AssemblyInfoInputs.cache
+C:\Users\Nayara\Documents\01 - Faculdade\Disciplinas\2020 - 01\Programação\Tarefas\Tarefa02\Tarefa02\Tarefa02\obj\Debug\netcoreapp3.1\Tarefa02.AssemblyInfo.cs
+C:\Users\Nayara\Documents\01 - Faculdade\Disciplinas\2020 - 01\Programação\Tarefas\Tarefa02\Tarefa02\Tarefa02\obj\Debug\netcoreapp3.1\Tarefa02.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Documents\01 - Faculdade\Disciplinas\2020 - 01\Programação\Tarefas\Tarefa02\Tarefa02\Tarefa02\bin\Debug\netcoreapp3.1\Tarefa02.exe
+C:\Users\Nayara\Documents\01 - Faculdade\Disciplinas\2020 - 01\Programação\Tarefas\Tarefa02\Tarefa02\Tarefa02\bin\Debug\netcoreapp3.1\Tarefa02.deps.json
+C:\Users\Nayara\Documents\01 - Faculdade\Disciplinas\2020 - 01\Programação\Tarefas\Tarefa02\Tarefa02\Tarefa02\bin\Debug\netcoreapp3.1\Tarefa02.runtimeconfig.json
+C:\Users\Nayara\Documents\01 - Faculdade\Disciplinas\2020 - 01\Programação\Tarefas\Tarefa02\Tarefa02\Tarefa02\bin\Debug\netcoreapp3.1\Tarefa02.runtimeconfig.dev.json
+C:\Users\Nayara\Documents\01 - Faculdade\Disciplinas\2020 - 01\Programação\Tarefas\Tarefa02\Tarefa02\Tarefa02\bin\Debug\netcoreapp3.1\Tarefa02.dll
+C:\Users\Nayara\Documents\01 - Faculdade\Disciplinas\2020 - 01\Programação\Tarefas\Tarefa02\Tarefa02\Tarefa02\bin\Debug\netcoreapp3.1\Tarefa02.pdb
+C:\Users\Nayara\Documents\01 - Faculdade\Disciplinas\2020 - 01\Programação\Tarefas\Tarefa02\Tarefa02\Tarefa02\obj\Debug\netcoreapp3.1\Tarefa02.dll
+C:\Users\Nayara\Documents\01 - Faculdade\Disciplinas\2020 - 01\Programação\Tarefas\Tarefa02\Tarefa02\Tarefa02\obj\Debug\netcoreapp3.1\Tarefa02.pdb
+C:\Users\Nayara\Documents\01 - Faculdade\Disciplinas\2020 - 01\Programação\Tarefas\Tarefa02\Tarefa02\Tarefa02\obj\Debug\netcoreapp3.1\Tarefa02.genruntimeconfig.cache

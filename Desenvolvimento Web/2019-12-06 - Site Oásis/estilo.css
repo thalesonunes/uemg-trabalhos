@@ -1,0 +1,427 @@
+/* ==================================================================== */
+/* INSERINDO FONTES */
+
+@font-face{
+    font-family: 'AvantGarden';
+    src:url("fonts/AVGARDD.ttf");
+}
+
+@font-face{
+    font-family: 'Trebuchet';
+    src:url("fonts/trebuc.ttf");
+}
+
+
+/* ==================================================================== */
+/* BODY */
+
+#conteiner{
+	width: 960px;
+	margin-top: 0px;
+	padding-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+body {
+	background-color: #88aaac;
+	background-image: url("imagens/fundo.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: top;
+	background-size: cover;
+	height: auto;
+}
+
+/* ==================================================================== */
+/* HEADER */
+
+header{
+	text-align: center;
+}
+
+header p{
+	margin-top: -10px;
+	font-family: Trebuchet, Arial, Sans-Serif;
+	font-size: 12px;
+	text-transform: uppercase;
+	color: white;
+	letter-spacing: 2px;
+}
+
+/* ==================================================================== */
+/* MENU */
+
+nav#menu{
+	width: 960px;
+	height: 30px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #698845;
+}
+
+nav#menu ul{
+	margin-top: 20px;
+    margin-left: -40px;
+    list-style: none;
+    text-transform: uppercase;
+    top: 0px;
+    text-align: center;  
+}
+
+nav#menu li{
+	width: auto;
+    display: inline-block;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #698845;
+    transition: background-color 0.3s;
+}
+
+nav#menu li:hover{
+    background-color: #9ECC68;
+}
+
+
+nav#menu a{
+    text-decoration-color: blanchedalmond;
+    font-family: Trebuchet, sans-serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+    color: white;
+    text-decoration: none;
+}
+
+nav#menu a:hover{
+    color: #4E5546;
+}
+
+
+/* ==================================================================== */
+/* CONTEUDO */
+
+#conteudo-index {
+	margin-top: 10px;
+	width: 960px;
+	height: 400px;
+	background-color: white;
+}
+
+#conteudo-ta {
+	margin-top: 10px;
+	width: 960px;
+	height: 3500px;
+	background-color: white;
+}
+
+#conteudo-alimentacao {
+	margin-top: 10px;
+	width: 960px;
+	height: 5750px;
+	background-color: white;
+}
+
+#conteudo-rs {
+	margin-top: 10px;
+	width: 960px;
+	height: 4000px;
+	background-color: white;
+}
+
+#conteudo-af {
+	margin-top: 10px;
+	width: 960px;
+	height: 2200px;
+	background-color: white;
+}
+
+#conteudo-contato {
+	margin-top: 10px;
+	width: 960px;
+	height: 600px;
+	background-color: white;
+}
+
+#banner{
+	margin-top: 10px;
+}
+
+h1{
+	margin:0px;
+	font-family: AvantGarden, sans-serif;
+    font-size: 36px;
+    letter-spacing: 2px;
+    color: #4E5546;
+    text-transform: uppercase;
+}
+
+h2{
+	margin-top:0px;
+	margin-bottom: 20px;
+	font-family: AvantGarden, sans-serif;
+    font-size: 18px;
+    color: #698845;
+    text-transform: uppercase;
+}
+
+h3{
+	margin-top:30px;
+	font-family: Trebuchet, sans-serif;
+    font-size: 16px;
+    color: #698845;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+h4{
+	margin-top:30px;
+	font-family: Trebuchet, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    color: #698845;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+p{
+	font-family: Trebuchet, sans-serif;
+    font-size: 13px;
+    letter-spacing: 0px;
+    color: #4E5546;
+    line-height: 1.5;
+}
+
+#imc-materia{
+	padding: 20px 20px 20px 20px;
+	width: 300px;
+	float: left;
+}
+
+#imc-teste{
+	padding: 20px 20px 20px 20px;
+	width: 220px;
+	float: left;
+}
+
+#imc-teste label{
+	font-family: Trebuchet, sans-serif;
+    font-size: 11px;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    color: #4E5546;
+}
+
+#imc-tabela{
+	padding: 20px 20px 20px 20px;
+	width: 320px;
+	float: left;
+}
+
+.input-imc{
+	width: 200px;
+	height: 25px;
+	padding-left: 10px;
+	font-family: Trebuchet, sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #4E5546;
+    background-color: #E9CBC7;
+    border-radius: 1px;
+    border:none;
+}
+
+.bt-index{
+	width: 103px;
+	height: 25px;
+	font-family: Trebuchet, sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+	background-color: #698845;
+	color: white;
+	border-radius: 2px;
+    border:none;
+}
+
+.bt-index:hover{
+	background-color: #4E5546;
+}
+
+.materia-cheia{
+	padding: 20px 20px 20px 20px;
+	width: 920px;
+}
+
+.texto-img img{
+	margin: 0px 20px 20px -40px;
+	float: left;
+}
+
+.img-receita{
+	margin-right: 50px;
+	margin-left: 0px;
+	float: left;
+}
+
+iframe{
+	margin: 20px 0px 20px 20px;
+	float: right;
+}
+
+
+/* ==================================================================== */
+/* CONTATO */
+
+#contato-materia{
+	margin-top: 20px;
+	margin-left: 20px;
+	width: 350px;
+	float: left;
+}
+
+#contato-materia label{
+	font-family: Trebuchet, sans-serif;
+    font-size: 11px;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    color: #4E5546;
+}
+
+.inputContato{
+	width: 250px;
+	height: 25px;
+	padding-left: 10px;
+	font-family: Trebuchet, sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #4E5546;
+    background-color: #E9CBC7;
+    border-radius: 1px;
+    border:none;
+}
+
+#botao{
+	width: 260px;
+	height: 25px;
+	font-family: Trebuchet, sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+	background-color: #698845;
+	color: white;
+	border-radius: 2px;
+    border:none;
+}
+
+#botao:hover{
+	background-color: #4E5546;
+}
+
+#contato-img{
+	margin-top: 20px;
+	margin-right: 20px;
+	float: right;
+}
+
+/* ==================================================================== */
+/* LISTAS ORDENADAS */
+
+.separador {
+    width: 100%;
+    height: 1px;
+    background-color: #9ECC68;
+}
+
+li p{
+	margin:0px;
+}
+
+
+
+
+/* ==================================================================== */
+/* IMC TABELA */
+
+table#tabela{
+	margin-top: 20px;
+	position: relative;
+	font-family: Trebuchet, sans-serif;
+    font-size: 11px;
+}
+
+table#tabela caption{
+	color: black;
+	font-weight: bold;
+}
+
+table#tabela td{
+	text-align: center;
+	vertical-align: middle;
+	padding: 5px;
+}
+
+table#tabela tr:nth-child(odd){
+	background-color: #E9CBC7;
+}
+
+table#tabela tr:nth-child(even){
+	background-color: #ADB7B1;
+}
+
+table#tabela th{
+	background-color: #9ECC68;
+	text-align: center;
+	vertical-align: middle;
+	padding: 5px;
+	border-radius: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==================================================================== */
+/* RODAPÉ */
+
+footer{
+	margin-top: 15px;
+	width: 960px;
+	height: 30px;
+	background-color: #E9CBC7;
+}
+
+small#rodape{
+    padding: 5px 5px 0px 0px;
+}
+
+small#rodape p{
+	text-align: center;
+	vertical-align: middle;
+    font-family: Trebuchet, sans-serif;
+    font-size: 10px;
+    letter-spacing: 1px;
+    color: white;
+
+}

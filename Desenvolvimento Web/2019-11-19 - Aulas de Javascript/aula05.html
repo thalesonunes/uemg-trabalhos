@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+	<meta charset="utf-8">
+	<title>Calculando</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+
+<body>
+
+	<div>
+
+		<h1>Calculadora</h1>
+		
+		<label>Digite o primeiro número: </label>
+		<input type="number" id="number1"><br><br>
+
+		<label>Digite o segundo número: </label>
+		<input type="number" id="number2"><br><br>
+
+		<input type="button" id="btSomar" value="Somar" onclick="somar()">
+		<input type="button" id="btSubrair" value="Subrair" onclick="subtrair()">
+		<input type="button" id="btMultipicar" value="Multipicar" onclick="multiplicar()">
+		<input type="button" id="btDividir" value="Dividir" onclick="dividir()"><br><br>
+		
+		<label id="resultado"> Resultado</label>
+
+	</div>
+
+	<script type="text/javascript">
+		
+		function somar(){
+			var numero1 = document.getElementById('number1').value;
+			var numero2 = document.getElementById('number2').value;
+			var num1 = Number(numero1);
+			var num1 = Number(numero2);
+			var soma = num1 + num2;
+			document.getElementById('resultado').innerText = 'O resultado é ' + soma; 
+		}
+
+	</script>
+
+</body>
+
+</html>

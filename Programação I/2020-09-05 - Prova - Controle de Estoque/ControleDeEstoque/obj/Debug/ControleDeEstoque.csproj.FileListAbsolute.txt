@@ -1,0 +1,7 @@
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-05\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe.config
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-05\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-05\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.pdb
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-05\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.csprojAssemblyReference.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-05\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.csproj.CoreCompileInputs.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-05\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-09-05\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.pdb

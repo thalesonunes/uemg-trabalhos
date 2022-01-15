@@ -1,0 +1,84 @@
+D:\GOOGLE DRIVE\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe.config
+D:\GOOGLE DRIVE\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe
+D:\GOOGLE DRIVE\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.pdb
+D:\GOOGLE DRIVE\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csprojAssemblyReference.cache
+D:\GOOGLE DRIVE\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csproj.CoreCompileInputs.cache
+D:\GOOGLE DRIVE\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.exe
+D:\GOOGLE DRIVE\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.pdb
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_12-40\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csprojAssemblyReference.cache
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_12-40\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_12-40\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.exe
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_12-40\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.pdb
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_12-40\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe.config
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_12-40\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_12-40\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.pdb
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_15_10\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe.config
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_15_10\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_15_10\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.pdb
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_15_10\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csprojAssemblyReference.cache
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_15_10\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_15_10\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.exe
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_15_10\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.pdb
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-01_19_27\Imobiliaria-2020-10-01_19_27\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe.config
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-01_19_27\Imobiliaria-2020-10-01_19_27\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-01_19_27\Imobiliaria-2020-10-01_19_27\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.pdb
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-01_19_27\Imobiliaria-2020-10-01_19_27\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csprojAssemblyReference.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-01_19_27\Imobiliaria-2020-10-01_19_27\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csproj.CoreCompileInputs.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-01_19_27\Imobiliaria-2020-10-01_19_27\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-01_19_27\Imobiliaria-2020-10-01_19_27\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.pdb
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_20-43\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csprojAssemblyReference.cache
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_20-43\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_20-43\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.exe
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_20-43\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.pdb
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_20-43\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe.config
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_20-43\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-01_20-43\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.pdb
+C:\Users\Nayara\Downloads\Trabalho 02Vania\Imobiliaria-2020-10-04_11_37\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe.config
+C:\Users\Nayara\Downloads\Trabalho 02Vania\Imobiliaria-2020-10-04_11_37\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe
+C:\Users\Nayara\Downloads\Trabalho 02Vania\Imobiliaria-2020-10-04_11_37\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.pdb
+C:\Users\Nayara\Downloads\Trabalho 02Vania\Imobiliaria-2020-10-04_11_37\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csprojAssemblyReference.cache
+C:\Users\Nayara\Downloads\Trabalho 02Vania\Imobiliaria-2020-10-04_11_37\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Downloads\Trabalho 02Vania\Imobiliaria-2020-10-04_11_37\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.exe
+C:\Users\Nayara\Downloads\Trabalho 02Vania\Imobiliaria-2020-10-04_11_37\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.pdb
+C:\Users\Nayara\Downloads\Trabalho 02Vania\Imobiliaria-2020-10-04__16_30\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe.config
+C:\Users\Nayara\Downloads\Trabalho 02Vania\Imobiliaria-2020-10-04__16_30\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe
+C:\Users\Nayara\Downloads\Trabalho 02Vania\Imobiliaria-2020-10-04__16_30\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.pdb
+C:\Users\Nayara\Downloads\Trabalho 02Vania\Imobiliaria-2020-10-04__16_30\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csprojAssemblyReference.cache
+C:\Users\Nayara\Downloads\Trabalho 02Vania\Imobiliaria-2020-10-04__16_30\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Downloads\Trabalho 02Vania\Imobiliaria-2020-10-04__16_30\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.exe
+C:\Users\Nayara\Downloads\Trabalho 02Vania\Imobiliaria-2020-10-04__16_30\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.pdb
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-05_19-53\Imobiliaria-2020-10-05_19_53\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe.config
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-05_19-53\Imobiliaria-2020-10-05_19_53\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-05_19-53\Imobiliaria-2020-10-05_19_53\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.pdb
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-05_19-53\Imobiliaria-2020-10-05_19_53\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csprojAssemblyReference.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-05_19-53\Imobiliaria-2020-10-05_19_53\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csproj.CoreCompileInputs.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-05_19-53\Imobiliaria-2020-10-05_19_53\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-05_19-53\Imobiliaria-2020-10-05_19_53\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.pdb
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-05_23-09\Imobiliaria-2020-10-05_23-09\Imobiliaria-2020-10-05_19_53\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe.config
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-05_23-09\Imobiliaria-2020-10-05_23-09\Imobiliaria-2020-10-05_19_53\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-05_23-09\Imobiliaria-2020-10-05_23-09\Imobiliaria-2020-10-05_19_53\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.pdb
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-05_23-09\Imobiliaria-2020-10-05_23-09\Imobiliaria-2020-10-05_19_53\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csprojAssemblyReference.cache
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-05_23-09\Imobiliaria-2020-10-05_23-09\Imobiliaria-2020-10-05_19_53\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-05_23-09\Imobiliaria-2020-10-05_23-09\Imobiliaria-2020-10-05_19_53\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.exe
+C:\Users\Nayara\Downloads\Imobiliaria-2020-10-05_23-09\Imobiliaria-2020-10-05_23-09\Imobiliaria-2020-10-05_19_53\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.pdb
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-06_06-27\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe.config
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-06_06-27\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-06_06-27\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.pdb
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-06_06-27\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csprojAssemblyReference.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-06_06-27\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csproj.CoreCompileInputs.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-06_06-27\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-06_06-27\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.pdb
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-06_17-58\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe.config
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-06_17-58\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-06_17-58\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.pdb
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-06_17-58\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csprojAssemblyReference.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-06_17-58\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csproj.CoreCompileInputs.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-06_17-58\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-02\Imobiliaria-2020-10-06_17-58\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.pdb
+C:\PROJETOS DEV\uemg\Prog1\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe.config
+C:\PROJETOS DEV\uemg\Prog1\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.exe
+C:\PROJETOS DEV\uemg\Prog1\Imobiliaria\Imobiliaria\bin\Debug\Imobiliaria.pdb
+C:\PROJETOS DEV\uemg\Prog1\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csproj.AssemblyReference.cache
+C:\PROJETOS DEV\uemg\Prog1\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.csproj.CoreCompileInputs.cache
+C:\PROJETOS DEV\uemg\Prog1\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.exe
+C:\PROJETOS DEV\uemg\Prog1\Imobiliaria\Imobiliaria\obj\Debug\Imobiliaria.pdb

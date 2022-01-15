@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+	<meta charset="utf-8">
+	<title>Eventos e Funções com JS</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+
+<body>
+
+	<h1>Exemplo de uso de Funções e Eventos com JavaScript</h1>
+
+	<img src="imagens/lampada-apagada.jpg" id="lampada" onmousemove='mudaLampada("acesa")' onmouseout='mudaLampada("apagada")' onmousedown='mudaLampada("quebrada")'>
+
+	<script type="text/javascript">
+
+		/*
+	
+		fora do script
+		<img src="imagens/lampada-apagada.jpg" id="lampada" onmousemove='acendeLampada()' onmouseout='apagaLampada()' onmousedown="quebraLampada()">
+
+
+		function acendeLampada(){
+			document.getElementById('lampada').src='imagens/lampada-acesa.jpg';
+		}
+
+		function apagaLampada(){
+			document.getElementById('lampada').src='imagens/lampada-apagada.jpg';
+		}
+
+		function quebraLampada(){
+			document.getElementById('lampada').src='imagens/lampada-quebrada.jpg';
+		}
+		*/
+
+		var q = false;
+
+		function mudaLampada(tipo){
+
+			if (!q) {
+
+				document.getElementById('lampada').src="imagens/lampada-" + tipo + ".jpg";
+
+				if(tipo =='quebrada'){
+					q = true;
+				}
+			}
+
+			
+		}
+
+
+	</script>
+
+</body>
+
+</html>

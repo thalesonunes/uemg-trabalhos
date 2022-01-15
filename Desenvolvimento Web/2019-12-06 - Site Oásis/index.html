@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+    <title>Oásis | Vida, Saúde e Bem Estar</title>
+</head>
+<body>
+
+	<main id="conteiner">
+    
+    		<!-- CABEÇALHO -->
+	     <header>
+	     	<figure id="logo-topo">
+	     		<a href="index.html"><img src="imagens/logo-topo-branco.png" alt="Oásis Logotipo" style="width:595px;height:80px;"></a>
+	     	</figure>
+
+	     	<p>Vida, Saúde e Bem Estar</p>
+	     </header>
+
+
+	     <!-- MENU -->
+	     <nav id="menu">
+	     	<ul>
+	     		<li><a href="index.html">Início</a></li>
+	     		<li><a href="transtornosalimentares.html">Transtornos Alimentares</a></li>
+	     		<li><a href="alimentacao.html">Alimentação</a></li>
+	     		<li><a href="receitassaudaveis.html">Receitas Saudáveis</a></li>
+	     		<li><a href="atividadefisica.html">Atividade Física</a></li>
+	     		<li><a href="contato.html">Contato</a></li>
+	     	</ul>
+	     </nav>
+
+
+	     <!-- BANNER -->
+	     <section id="banner">
+	     	<img src="imagens/banner02.jpg" alt="Dicas Oásis">
+	     </section>
+
+
+	     <!-- MATÉRIAS -->
+	     <div id="conteudo-index">
+
+	     	<section id="imc-materia" class="materias">
+
+	     		<h1>IMC</h1>
+	     		<h2>Cálculo IMC</h2>
+
+	     		<p>IMC é a  sigla para Índice de Massa Corpórea, parâmetro adotado pela Organização Mundial  de Saúde para calcular o peso ideal de cada pessoa.<br>
+  				O índice é  calculado da seguinte maneira: divide-se o peso do paciente pela sua altura  elevada ao quadrado. Diz-se que o indivíduo tem peso normal quando o resultado  do IMC está entre 18,5 e 24,9.<br>
+  				Quer  descobrir seu IMC? Insira seu peso e sua altura nos campos abaixo e compare com  os índices da tabela. Importante: siga os exemplos e use pontos como  separadores.</p>
+	     		
+	     	</section>
+
+	     	<section id="imc-teste">
+
+	     		<h1>TESTE</h1>
+	     		<h2>Cálcule seu IMC</h2>
+
+	     		
+	     		<label>INFORME SEU PESO: </label><br>
+	     		<input class="input-imc" type="number" id="peso"><br>
+
+	     		<label>INFORME SUA ALTURA: </label><br>
+	     		<input class="input-imc" type="number" id="altura"><br><br>
+
+	     		<input class="bt-index" type="button" id="verificar" value="verificar" onclick="calculo()">
+	     		<input class="bt-index" type="button" id="limpar" value="limpar" onclick="limpar()"> <br>
+	     		
+	     		<p id="resultado">Preencha os dados!</p>
+	     		
+
+	     	</section>
+
+
+	     	<section id="imc-tabela" class="materias">
+
+	     		<h1>Tabela IMC</h1>
+	     		<h2>Interpretação do IMC</h2>
+
+	     		<table id="tabela">
+	     			<tr><th>IMC</th><th>CLASSIFICAÇÃO</th><th>OBESIDADE (grau)</th></tr>
+	     			<tr><td>Menor que 18,5</td><td>Magreza</td><td>0</td></tr>
+	     			<tr><td>Entre 18,5 e 24,9</td><td>Normal</td><td>0</td></tr>
+	     			<tr><td>Entre 25,0 e 29,9</td><td>Sobrepeso</td><td>I</td></tr>
+	     			<tr><td>Entre 30,0 e 39,9</td><td>Obesidade</td><td>II</td></tr>
+	     			<tr><td>Maior que 40,0</td><td>Obesidade Grave</td><td>III</td></tr>
+	     		</table>
+
+	     	</section>
+
+	     </div>
+	     
+	     <!-- RODAPÉ -->
+	     <footer>
+	     	<small id="rodape">
+	     		<p>Copyright © 2019 Oásis - Todos os direitos reservados.</p>
+	     	</small>
+	     </footer>
+
+     </main>
+
+     <script type="text/javascript" src="script/imc-float.js"></script>
+    
+</body>
+</html>

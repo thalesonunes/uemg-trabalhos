@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+	<meta charset="utf-8">
+	<title>Primeira aula de DOM</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+
+<body>
+
+	<h1 name="fundo" >Iniciando os estudos com DOM</h1>
+	<p class="cor">Aqui vai o resultado</p>
+	<p>APrendendo a usar o DOM com JavaScript</p>
+	<div id="msg" onmouseenter="enter()">Clique Aqui</div>
+
+	<script type="text/javascript">
+
+		// acessando objetos por TagName
+		var p1 = document.getElementsByTagName('p')[0];
+		var p2 = document.getElementsByTagName('p')[1];
+		p1.style.color - "red";
+		//document.write(p2.innerHTML); /* innerHTML imprime como HMTL, considerando as tags utilizadas */
+		// document.write(p2.innerText); /* innerTEXT imprime TEXTO, desconsiderando as tags utilizadas */
+
+		// acessando objetos pelo ID
+		var mensagem = document.getElementById('msg');
+		mensagem.innerText = "Estou aguardando...";
+
+		// Acessando obejtos por Name e por Class
+		var f = document.getElementsByName('fundo')[0];
+		var c = document.getElementsByClassName('cor')[0];
+		f.style.background = 'green';
+		c.style.background = 'yellow';
+
+		// Acessando objetos por Seletor
+
+		p1 = document.querySelector('p.cor'); // ponto para classe
+		mensagem = document.querySelector('div#msg'); // hashtag para ID
+		p1.style.background = 'blue';
+		mensagem.style.background = 'red';
+
+		// EVENTOS DE MOUSE
+
+		function enter(){
+			mensagem.style.color = 'white';
+		}
+
+
+
+
+	</script>
+
+</body>
+
+</html>

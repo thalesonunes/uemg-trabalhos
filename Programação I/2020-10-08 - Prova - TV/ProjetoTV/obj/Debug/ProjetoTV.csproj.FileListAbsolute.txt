@@ -1,0 +1,7 @@
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-08\ProjetoTV\ProjetoTV\bin\Debug\ProjetoTV.exe.config
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-08\ProjetoTV\ProjetoTV\bin\Debug\ProjetoTV.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-08\ProjetoTV\ProjetoTV\bin\Debug\ProjetoTV.pdb
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-08\ProjetoTV\ProjetoTV\obj\Debug\ProjetoTV.csprojAssemblyReference.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-08\ProjetoTV\ProjetoTV\obj\Debug\ProjetoTV.csproj.CoreCompileInputs.cache
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-08\ProjetoTV\ProjetoTV\obj\Debug\ProjetoTV.exe
+E:\Google Drive\SISTEMAS DE INFORMAÇÃO\2020-1\PROG1\Atividades assíncronas\Entrega 2020-10-08\ProjetoTV\ProjetoTV\obj\Debug\ProjetoTV.pdb

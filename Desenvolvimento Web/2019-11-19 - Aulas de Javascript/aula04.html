@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+	<meta charset="utf-8">
+	<title>Formulário</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+
+<body>
+
+	<h1>Meu primeiro formulario</h1>
+
+	<form>
+	<label>Qual o seu nome?</label>
+	<input type="text" id="txtNome" placeholder="Digite seu nome"><br><br>
+
+	<label>Digite sua senha?</label>
+	<input type="password" id="txtSenha"><br><br>
+
+	<label>Qual seu curso?</label>	
+	<input type="radio" name="curso" checked> Sistemas
+	<input type="radio" name="curso"> Engenharia
+	<input type="radio" name="curso"> Direito
+	<input type="radio" name="curso"> Medicina<br><br>
+	
+	<label>Quais as diciplinas está cursando?</label>
+	<input type="checkbox" name=""> Web
+	<input type="checkbox" name=""> Logica
+	<input type="checkbox" name=""> IHC
+	<input type="checkbox" name=""> GQS<br><br>
+
+	<label>Outras disciplinas</label>
+	<textarea placeholder="Digite outras disciplinas"></textarea><br><br>
+
+	<label>Qual o seu idioma</label>
+	<select>
+		<option>Português</option>
+		<option>Inglês</option>
+		<option>Espanhol</option>
+	</select><br><br>
+
+	<input type="button" name="" value="Enviar" onclick="enviar()">
+	<input type="reset" name="Limpar">
+	</form>
+
+	<script type="text/javascript">
+
+		function enviar(){
+			var nome = document.getElementById('txtNome').value;
+			alert('Olá ' + nome + '!');
+		}
+
+	</script>
+
+</body>
+
+</html>

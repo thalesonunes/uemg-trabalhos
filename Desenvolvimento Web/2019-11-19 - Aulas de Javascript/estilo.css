@@ -1,0 +1,13 @@
+body{
+	width: 100%;
+}
+
+div {
+	border: round;
+	display: block;
+	position: relative;
+	width: 80%;
+	background-color: aquamarine;
+	left: 100px;
+	padding: 30px;
+}

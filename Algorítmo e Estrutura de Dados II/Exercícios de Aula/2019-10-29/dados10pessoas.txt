@@ -1,0 +1,10 @@
+Thales   34   12345
+Joao   23   23456
+Maria   15   34567
+Livia   35   54321
+Zelia   54   23412
+Dado   65   567890
+Rafael   33   13579
+Lilian   17   24790
+Bibi   12   21324
+Lala   9876   23231
